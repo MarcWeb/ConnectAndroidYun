@@ -1,0 +1,10 @@
+            android:text="@string/data_received" 
+            
+                        android:text="@string/data_sent" 
+                        
+           <Button
+            android:id="@+id/button_stop"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.41"
+            android:text="@string/button_stop" />

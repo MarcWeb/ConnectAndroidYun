@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ConnectAndroidYun</string>
+    <string name="action_settings">Settings</string>
+    <string name="port_no">Port</string>
+	<string name="ip_addr">Yun IP</string>
+	<string name="data_sent">Sent</string>
+	<string name="data_received">Received</string>
+	<string name="button_forward">Forward</string>
+	<string name="button_backward">Backward</string>
+	<string name="button_left">Left</string>
+	<string name="button_right">Right</string>
+	<string name="button_halt">Halt</string>
+	<string name="button_6">Start Video</string>
+	<string name="button_7">Pan left</string>
+	<string name="button_8">Pan Right</string>	
+	<string name="button_9">Tilt Up</string>
+	<string name="button_10">Tilt down</string>
+	<string name="button_start">Connect to Yun</string>
+	<string name="button_stop">Disconnect from Yun</string>	
+	
+</resources>
